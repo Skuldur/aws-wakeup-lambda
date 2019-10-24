@@ -1,0 +1,11 @@
+{
+  "resources": [
+    {
+      "name": "index",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:eu-west-1:691273888326:function:wakeup-lambda-dev-index"
+    }
+  ],
+  "schema_version": "2.0",
+  "backend": "api"
+}

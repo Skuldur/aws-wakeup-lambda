@@ -19,7 +19,8 @@ LAMBDAS_TO_INVOKE = [
     'athena-party_intent-lambda-dev-index',
     'athena-set_volume_intent-lambda-dev-index',
     'athena-change_spotify_device_intent-lambda-dev-index',
-    'athena-christmas_time_intent-lambda-dev-index'
+    'athena-christmas_time_intent-lambda-dev-index',
+    'athena-add_to_saved_intent-lambda-dev-index'
 ]
 
 @app.lambda_function()
